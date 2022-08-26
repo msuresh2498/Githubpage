@@ -1,0 +1,95 @@
+.page-header{
+    background-color: #313c47;
+    padding: 30px;
+    color: white;
+    display: flex;
+    font-family: sans-serif ;
+    
+}
+#github{
+    text-align: center;
+}
+.fa-brands{
+    padding: 30px;
+    height: 40px;
+    width: 40px;
+}
+#item1{
+    padding: 10px;
+    background-color: #343232;  
+    margin-top: 80px;
+    margin-left: 80px;
+    border-radius: 20px;
+    height: 570px;
+    width: 350px;
+}
+body{
+    background-color: #c2c5b7;
+}
+#item2{
+    
+    background-color: #c2c5b7;
+    margin-left: 90px;
+    margin-top: 90px;
+    display: grid;
+    height: 600px;
+    width: 900px;
+
+    
+}
+.box1{
+    background-color: #343232;
+    margin-left: 150px;
+    margin-right: 100px;
+    border: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    height: 50px;
+    font-family: monospace,cursive;
+    padding: 10px;
+    
+    
+}
+#row{
+    display: flex;
+    background-color: #c2c5b7;
+}
+.box2{
+    background-color: #c2c5b7;
+    display: flex;
+    height: 130px;
+    border-radius: 20px;
+
+}
+#box3{
+
+    height: 200px;
+    background-color: #343232;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.subbox1{
+    background-color: #343232;
+    height: 150px;
+    width: 220px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+
+}
+.subbox2{
+    background-color: #343232;
+    height: 150px;
+    width: 220px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+.subbox3{
+    background-color: #343232;
+    height: 150px;
+    width: 220px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
